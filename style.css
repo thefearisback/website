@@ -1,0 +1,12 @@
+body {
+  font-size: 17px;
+  font-family: "Times New Roman";
+  color: black;
+  background-image: url("gifs/background.gif");
+  margin-left: 5%;
+  margin-top: 2%;
+  margin-right: 5%;
+}
+a {
+  color: black;
+}
